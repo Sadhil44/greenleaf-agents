@@ -1,0 +1,301 @@
+Product_ID,Product_Name,Category,Price,Season,Difficulty,Sunlight,Days_To_Harvest,Inventory,Gross_Margin_Percent
+P1001,Blackberry Pro,Fruit Plants,17.76,Spring,Beginner,Full Sun,53,238,0.54
+P1002,Cucumber Collection,Vegetable Seeds,6.54,Spring,Intermediate,Shade,70,150,0.46
+P1003,Marigold Pro,Flower Seeds,6.32,Spring,Intermediate,Shade,N/A,220,0.66
+P1004,Seed Tray Classic,Garden Tools,17.7,Spring,Beginner,Indoor,N/A,386,0.39
+P1005,Slug Control Classic,Pest Control,19.44,Summer,Intermediate,Indoor,N/A,1461,0.58
+P1006,Seed Tray Starter,Garden Tools,34.23,Spring,Intermediate,Partial Sun,N/A,990,0.5
+P1007,Deer Repellent Classic,Pest Control,12.72,Summer,Beginner,Full Sun,N/A,730,0.54
+P1008,Raspberry Starter,Fruit Plants,16.02,Spring,Beginner,Full Sun,80,98,0.57
+P1009,Coneflower Organic,Perennials,23.91,Spring,Intermediate,Full Sun,N/A,1321,0.37
+P1010,Bean Premium,Vegetable Seeds,4.06,Spring,Beginner,Partial Sun,32,572,0.51
+P1011,LED Grow Light Starter,Indoor Growing,72.36,Winter,Beginner,Shade,N/A,614,0.48
+P1012,Cosmos Pro,Flower Seeds,4.87,Spring,Beginner,Partial Sun,N/A,152,0.66
+P1013,Raspberry Mix,Fruit Plants,15.26,Spring,Advanced,Partial Sun,60,1092,0.52
+P1014,Strawberry Heirloom,Fruit Plants,28.11,Spring,Beginner,Shade,77,1417,0.4
+P1015,Grow Bag Organic,Raised Beds,77.07,Early Spring,Intermediate,Full Sun,N/A,666,0.65
+P1016,Tomato Pro,Vegetable Seeds,8.48,Spring,Beginner,Indoor,73,1177,0.67
+P1017,Japanese Beetle Trap Heirloom,Pest Control,11.74,Summer,Intermediate,Full Sun,N/A,637,0.35
+P1018,Bone Meal Organic,Soil & Fertilizer,10.82,Spring,Beginner,Full Sun,N/A,194,0.48
+P1019,Salvia Premium,Perennials,15.44,Spring,Beginner,Partial Sun,N/A,659,0.53
+P1020,Grow Bag Classic,Raised Beds,45.46,Early Spring,Beginner,Partial Sun,N/A,339,0.37
+P1021,Knock Out Rose Collection,Roses,40.63,Spring,Beginner,Indoor,N/A,508,0.54
+P1022,Microgreen Tray Premium,Indoor Growing,96.16,Winter,Intermediate,Partial Sun,N/A,983,0.41
+P1023,Lavender Mix,Perennials,13.52,Spring,Beginner,Indoor,N/A,773,0.51
+P1024,Cucumber Heirloom,Vegetable Seeds,4.5,Spring,Beginner,Partial Sun,69,84,0.47
+P1025,Daylily Classic,Perennials,24.95,Spring,Beginner,Indoor,N/A,9,0.43
+P1026,Hosta Organic,Perennials,21.37,Spring,Beginner,Shade,N/A,908,0.51
+P1027,Tomato Premium,Vegetable Seeds,4.0,Spring,Beginner,Shade,26,712,0.41
+P1028,Japanese Beetle Trap Classic,Pest Control,24.03,Summer,Beginner,Indoor,N/A,332,0.5
+P1029,Carrot Classic,Vegetable Seeds,5.14,Spring,Advanced,Full Sun,31,37,0.53
+P1030,Seed Starter Mix Mix,Soil & Fertilizer,9.56,Spring,Beginner,Indoor,N/A,1441,0.53
+P1031,Tomato Collection,Vegetable Seeds,3.08,Spring,Intermediate,Full Sun,39,1237,0.61
+P1032,Bone Meal Collection,Soil & Fertilizer,19.84,Spring,Beginner,Indoor,N/A,157,0.53
+P1033,Lettuce Heirloom,Vegetable Seeds,3.56,Spring,Intermediate,Shade,54,1097,0.46
+P1034,Tomato Feed Classic,Soil & Fertilizer,14.63,Spring,Beginner,Indoor,N/A,280,0.35
+P1035,Marigold Starter,Flower Seeds,5.69,Spring,Beginner,Shade,N/A,800,0.46
+P1036,Bone Meal Premium,Soil & Fertilizer,20.51,Spring,Beginner,Full Sun,N/A,1000,0.59
+P1037,Seed Starter Mix Premium,Soil & Fertilizer,12.55,Spring,Intermediate,Partial Sun,N/A,25,0.55
+P1038,Humidity Dome Premium,Indoor Growing,40.09,Winter,Advanced,Partial Sun,N/A,322,0.44
+P1039,Pepper Collection,Vegetable Seeds,8.86,Spring,Intermediate,Partial Sun,54,1446,0.53
+P1040,Sunflower Starter,Flower Seeds,3.57,Spring,Advanced,Shade,N/A,758,0.52
+P1041,Strawberry Classic,Fruit Plants,33.99,Spring,Advanced,Shade,91,46,0.6
+P1042,Floribunda Rose Starter,Roses,40.05,Spring,Beginner,Partial Sun,N/A,1004,0.59
+P1043,Cedar Raised Bed Premium,Raised Beds,127.37,Early Spring,Beginner,Indoor,N/A,23,0.41
+P1044,Tomato Feed Premium,Soil & Fertilizer,28.88,Spring,Beginner,Full Sun,N/A,718,0.49
+P1045,Lavender Pro,Perennials,22.34,Spring,Beginner,Partial Sun,N/A,1298,0.5
+P1046,Phlox Heirloom,Perennials,12.05,Spring,Intermediate,Shade,N/A,42,0.4
+P1047,Tomato Feed Premium,Soil & Fertilizer,19.0,Spring,Beginner,Partial Sun,N/A,583,0.36
+P1048,Lavender Pro,Perennials,14.44,Spring,Intermediate,Indoor,N/A,1378,0.66
+P1049,Poppy Classic,Flower Seeds,3.59,Spring,Beginner,Full Sun,N/A,372,0.39
+P1050,Zinnia Collection,Flower Seeds,5.06,Spring,Beginner,Partial Sun,N/A,1132,0.43
+P1051,Pruner Organic,Garden Tools,10.12,Spring,Beginner,Partial Sun,N/A,762,0.39
+P1052,Organic Fertilizer Mix,Soil & Fertilizer,7.87,Spring,Beginner,Shade,N/A,850,0.47
+P1053,Deer Repellent Classic,Pest Control,20.77,Summer,Beginner,Partial Sun,N/A,295,0.46
+P1054,Zinnia Heirloom,Flower Seeds,3.2,Spring,Intermediate,Full Sun,N/A,598,0.54
+P1055,Slug Control Collection,Pest Control,10.16,Summer,Beginner,Indoor,N/A,88,0.53
+P1056,Neem Oil Heirloom,Pest Control,14.32,Summer,Intermediate,Full Sun,N/A,95,0.57
+P1057,LED Grow Light Starter,Indoor Growing,101.72,Winter,Intermediate,Partial Sun,N/A,302,0.45
+P1058,Hosta Organic,Perennials,10.81,Spring,Intermediate,Shade,N/A,1498,0.67
+P1059,Trowel Pro,Garden Tools,23.81,Spring,Advanced,Full Sun,N/A,213,0.59
+P1060,Watering Wand Classic,Garden Tools,27.54,Spring,Beginner,Shade,N/A,1430,0.54
+P1061,Blueberry Heirloom,Fruit Plants,34.06,Spring,Beginner,Full Sun,57,381,0.49
+P1062,Organic Fertilizer Starter,Soil & Fertilizer,10.33,Spring,Intermediate,Full Sun,N/A,610,0.54
+P1063,Bean Collection,Vegetable Seeds,5.55,Spring,Beginner,Indoor,71,1297,0.66
+P1064,Gloves Classic,Garden Tools,38.67,Spring,Beginner,Indoor,N/A,1296,0.51
+P1065,Gloves Collection,Garden Tools,20.79,Spring,Beginner,Indoor,N/A,1006,0.65
+P1066,Trowel Organic,Garden Tools,10.86,Spring,Beginner,Full Sun,N/A,84,0.56
+P1067,Watering Wand Premium,Garden Tools,25.16,Spring,Intermediate,Full Sun,N/A,1040,0.42
+P1068,Compost Booster Starter,Soil & Fertilizer,26.44,Spring,Beginner,Shade,N/A,984,0.47
+P1069,Pepper Organic,Vegetable Seeds,7.76,Spring,Intermediate,Indoor,95,772,0.65
+P1070,Compost Booster Heirloom,Soil & Fertilizer,9.53,Spring,Beginner,Indoor,N/A,741,0.62
+P1071,Kale Mix,Vegetable Seeds,8.06,Spring,Advanced,Indoor,89,330,0.59
+P1072,Bone Meal Starter,Soil & Fertilizer,21.55,Spring,Beginner,Partial Sun,N/A,620,0.37
+P1073,Bone Meal Heirloom,Soil & Fertilizer,14.24,Spring,Intermediate,Partial Sun,N/A,837,0.46
+P1074,Compost Booster Mix,Soil & Fertilizer,29.98,Spring,Beginner,Shade,N/A,845,0.64
+P1075,Hosta Pro,Perennials,16.44,Spring,Intermediate,Shade,N/A,1301,0.52
+P1076,Carrot Premium,Vegetable Seeds,4.41,Spring,Beginner,Shade,54,1128,0.49
+P1077,Zinnia Classic,Flower Seeds,2.75,Spring,Beginner,Partial Sun,N/A,1146,0.47
+P1078,Zucchini Heirloom,Vegetable Seeds,3.15,Spring,Beginner,Shade,42,608,0.37
+P1079,Deer Repellent Classic,Pest Control,24.32,Summer,Advanced,Shade,N/A,1096,0.44
+P1080,Japanese Beetle Trap Classic,Pest Control,16.24,Summer,Beginner,Shade,N/A,412,0.61
+P1081,Climbing Rose Heirloom,Roses,37.46,Spring,Advanced,Shade,N/A,362,0.64
+P1082,Blueberry Heirloom,Fruit Plants,20.52,Spring,Beginner,Indoor,25,939,0.54
+P1083,Pruner Starter,Garden Tools,16.99,Spring,Intermediate,Indoor,N/A,353,0.63
+P1084,Hosta Starter,Perennials,19.37,Spring,Beginner,Full Sun,N/A,1420,0.61
+P1085,Blackberry Collection,Fruit Plants,29.02,Spring,Beginner,Indoor,38,163,0.67
+P1086,Watering Wand Mix,Garden Tools,16.25,Spring,Beginner,Partial Sun,N/A,1199,0.36
+P1087,Organic Fertilizer Heirloom,Soil & Fertilizer,17.67,Spring,Intermediate,Partial Sun,N/A,366,0.55
+P1088,Neem Oil Starter,Pest Control,14.56,Summer,Intermediate,Shade,N/A,219,0.66
+P1089,Sunflower Classic,Flower Seeds,7.73,Spring,Intermediate,Partial Sun,N/A,218,0.61
+P1090,Kale Mix,Vegetable Seeds,8.32,Spring,Beginner,Full Sun,59,141,0.36
+P1091,Compost Booster Collection,Soil & Fertilizer,28.35,Spring,Intermediate,Shade,N/A,670,0.59
+P1092,Cosmos Classic,Flower Seeds,2.72,Spring,Beginner,Partial Sun,N/A,650,0.64
+P1093,Poppy Premium,Flower Seeds,4.63,Spring,Intermediate,Indoor,N/A,1380,0.38
+P1094,LED Grow Light Starter,Indoor Growing,67.38,Winter,Beginner,Shade,N/A,18,0.57
+P1095,Floribunda Rose Organic,Roses,46.45,Spring,Beginner,Full Sun,N/A,1499,0.62
+P1096,Lavender Classic,Perennials,17.84,Spring,Intermediate,Full Sun,N/A,227,0.65
+P1097,Blackberry Heirloom,Fruit Plants,22.66,Spring,Advanced,Partial Sun,69,1286,0.52
+P1098,Aster Mix,Flower Seeds,8.98,Spring,Beginner,Partial Sun,N/A,176,0.64
+P1099,Daylily Classic,Perennials,21.01,Spring,Advanced,Shade,N/A,83,0.36
+P1100,Tomato Feed Premium,Soil & Fertilizer,23.77,Spring,Beginner,Partial Sun,N/A,327,0.55
+P1101,Climbing Rose Pro,Roses,45.51,Spring,Beginner,Partial Sun,N/A,72,0.41
+P1102,Salvia Starter,Perennials,14.23,Spring,Beginner,Shade,N/A,114,0.58
+P1103,Slug Control Classic,Pest Control,23.37,Summer,Intermediate,Full Sun,N/A,413,0.4
+P1104,Metal Raised Bed Mix,Raised Beds,135.59,Early Spring,Advanced,Shade,N/A,557,0.56
+P1105,Pepper Pro,Vegetable Seeds,5.74,Spring,Intermediate,Shade,95,1352,0.52
+P1106,Cedar Raised Bed Mix,Raised Beds,60.22,Early Spring,Beginner,Shade,N/A,1357,0.4
+P1107,Raspberry Mix,Fruit Plants,29.09,Spring,Beginner,Indoor,25,991,0.46
+P1108,Hybrid Tea Rose Starter,Roses,41.26,Spring,Intermediate,Indoor,N/A,842,0.66
+P1109,Microgreen Tray Heirloom,Indoor Growing,35.08,Winter,Beginner,Indoor,N/A,1305,0.52
+P1110,Carrot Pro,Vegetable Seeds,5.76,Spring,Intermediate,Indoor,62,127,0.61
+P1111,Hosta Premium,Perennials,10.11,Spring,Beginner,Full Sun,N/A,599,0.49
+P1112,Hosta Organic,Perennials,21.57,Spring,Intermediate,Shade,N/A,380,0.56
+P1113,Cosmos Organic,Flower Seeds,9.58,Spring,Beginner,Partial Sun,N/A,719,0.56
+P1114,Grape Pro,Fruit Plants,29.91,Spring,Beginner,Full Sun,68,8,0.36
+P1115,Daylily Starter,Perennials,20.37,Spring,Beginner,Shade,N/A,1197,0.61
+P1116,Sunflower Heirloom,Flower Seeds,9.26,Spring,Beginner,Shade,N/A,390,0.62
+P1117,Seed Tray Classic,Garden Tools,6.1,Spring,Beginner,Shade,N/A,204,0.37
+P1118,Pruner Starter,Garden Tools,19.51,Spring,Beginner,Shade,N/A,58,0.49
+P1119,Coneflower Premium,Perennials,23.29,Spring,Intermediate,Indoor,N/A,330,0.41
+P1120,Neem Oil Collection,Pest Control,10.63,Summer,Beginner,Partial Sun,N/A,1394,0.44
+P1121,Planter Box Collection,Raised Beds,198.27,Early Spring,Beginner,Partial Sun,N/A,613,0.66
+P1122,Floribunda Rose Heirloom,Roses,35.52,Spring,Intermediate,Shade,N/A,380,0.57
+P1123,Carrot Starter,Vegetable Seeds,6.7,Spring,Beginner,Indoor,62,915,0.45
+P1124,Neem Oil Pro,Pest Control,23.92,Summer,Beginner,Indoor,N/A,743,0.55
+P1125,Deer Repellent Collection,Pest Control,13.08,Summer,Beginner,Full Sun,N/A,252,0.44
+P1126,Compost Booster Pro,Soil & Fertilizer,19.48,Spring,Beginner,Indoor,N/A,654,0.38
+P1127,Climbing Rose Mix,Roses,44.86,Spring,Beginner,Indoor,N/A,662,0.58
+P1128,Carrot Starter,Vegetable Seeds,8.01,Spring,Intermediate,Indoor,45,1084,0.43
+P1129,Wildflower Organic,Flower Seeds,8.12,Spring,Beginner,Partial Sun,N/A,713,0.47
+P1130,Poppy Premium,Flower Seeds,9.43,Spring,Beginner,Shade,N/A,352,0.4
+P1131,Blackberry Mix,Fruit Plants,26.02,Spring,Beginner,Full Sun,26,1165,0.4
+P1132,Grow Bag Mix,Raised Beds,160.85,Early Spring,Intermediate,Full Sun,N/A,243,0.64
+P1133,Zucchini Organic,Vegetable Seeds,3.08,Spring,Beginner,Full Sun,58,1083,0.68
+P1134,Carrot Heirloom,Vegetable Seeds,3.66,Spring,Beginner,Indoor,35,1199,0.59
+P1135,Floribunda Rose Organic,Roses,49.16,Spring,Intermediate,Full Sun,N/A,674,0.38
+P1136,Floribunda Rose Collection,Roses,43.41,Spring,Intermediate,Partial Sun,N/A,826,0.52
+P1137,Coneflower Organic,Perennials,20.36,Spring,Advanced,Indoor,N/A,1102,0.45
+P1138,Herb Kit Organic,Indoor Growing,72.52,Winter,Intermediate,Indoor,N/A,516,0.59
+P1139,Seed Tray Pro,Garden Tools,30.61,Spring,Intermediate,Indoor,N/A,515,0.62
+P1140,Knock Out Rose Starter,Roses,24.74,Spring,Intermediate,Shade,N/A,170,0.36
+P1141,Wildflower Collection,Flower Seeds,8.29,Spring,Beginner,Full Sun,N/A,220,0.51
+P1142,Pepper Classic,Vegetable Seeds,5.78,Spring,Beginner,Partial Sun,47,284,0.52
+P1143,Grape Pro,Fruit Plants,20.65,Spring,Intermediate,Shade,67,424,0.59
+P1144,Wildflower Collection,Flower Seeds,9.5,Spring,Beginner,Indoor,N/A,581,0.36
+P1145,Floribunda Rose Organic,Roses,25.21,Spring,Beginner,Shade,N/A,1253,0.46
+P1146,Zinnia Classic,Flower Seeds,6.66,Spring,Intermediate,Partial Sun,N/A,1069,0.65
+P1147,Zucchini Mix,Vegetable Seeds,6.58,Spring,Beginner,Full Sun,54,939,0.65
+P1148,Cedar Raised Bed Organic,Raised Beds,177.39,Early Spring,Intermediate,Partial Sun,N/A,1300,0.66
+P1149,Hosta Premium,Perennials,12.53,Spring,Intermediate,Partial Sun,N/A,1364,0.5
+P1150,Bean Organic,Vegetable Seeds,8.88,Spring,Beginner,Partial Sun,52,89,0.6
+P1151,Tomato Feed Classic,Soil & Fertilizer,13.49,Spring,Intermediate,Indoor,N/A,151,0.39
+P1152,Coneflower Classic,Perennials,16.51,Spring,Beginner,Shade,N/A,523,0.6
+P1153,Poppy Starter,Flower Seeds,6.14,Spring,Beginner,Indoor,N/A,998,0.57
+P1154,Pruner Heirloom,Garden Tools,34.89,Spring,Advanced,Partial Sun,N/A,474,0.63
+P1155,LED Grow Light Organic,Indoor Growing,77.63,Winter,Beginner,Indoor,N/A,540,0.57
+P1156,Tomato Feed Pro,Soil & Fertilizer,7.36,Spring,Intermediate,Full Sun,N/A,400,0.39
+P1157,Cucumber Pro,Vegetable Seeds,6.14,Spring,Beginner,Indoor,57,912,0.62
+P1158,Compost Booster Classic,Soil & Fertilizer,27.84,Spring,Beginner,Partial Sun,N/A,596,0.57
+P1159,Slug Control Organic,Pest Control,13.26,Summer,Intermediate,Indoor,N/A,387,0.62
+P1160,Lettuce Starter,Vegetable Seeds,7.61,Spring,Beginner,Shade,88,1193,0.59
+P1161,Microgreen Tray Mix,Indoor Growing,45.34,Winter,Beginner,Shade,N/A,1175,0.44
+P1162,Aster Collection,Flower Seeds,5.93,Spring,Beginner,Indoor,N/A,38,0.61
+P1163,Metal Raised Bed Pro,Raised Beds,50.86,Early Spring,Intermediate,Shade,N/A,970,0.67
+P1164,Cucumber Heirloom,Vegetable Seeds,3.88,Spring,Intermediate,Indoor,100,321,0.49
+P1165,Poppy Mix,Flower Seeds,4.45,Spring,Intermediate,Shade,N/A,1195,0.59
+P1166,Hosta Premium,Perennials,16.78,Spring,Intermediate,Partial Sun,N/A,1155,0.59
+P1167,Kale Premium,Vegetable Seeds,5.58,Spring,Beginner,Full Sun,51,340,0.49
+P1168,Humidity Dome Organic,Indoor Growing,59.32,Winter,Beginner,Full Sun,N/A,93,0.68
+P1169,Phlox Collection,Perennials,21.57,Spring,Advanced,Indoor,N/A,389,0.59
+P1170,Phlox Collection,Perennials,22.61,Spring,Intermediate,Full Sun,N/A,1129,0.44
+P1171,Zucchini Pro,Vegetable Seeds,4.32,Spring,Intermediate,Full Sun,100,428,0.51
+P1172,Bone Meal Classic,Soil & Fertilizer,9.69,Spring,Beginner,Shade,N/A,128,0.42
+P1173,Neem Oil Pro,Pest Control,12.1,Summer,Intermediate,Shade,N/A,1058,0.65
+P1174,Compost Booster Collection,Soil & Fertilizer,12.63,Spring,Beginner,Partial Sun,N/A,359,0.47
+P1175,Watering Wand Pro,Garden Tools,17.94,Spring,Beginner,Partial Sun,N/A,1212,0.46
+P1176,Herb Kit Collection,Indoor Growing,113.21,Winter,Intermediate,Shade,N/A,1266,0.44
+P1177,Climbing Rose Classic,Roses,19.08,Spring,Beginner,Full Sun,N/A,1464,0.57
+P1178,Blueberry Premium,Fruit Plants,34.39,Spring,Beginner,Full Sun,84,1069,0.52
+P1179,Seed Starter Mix Premium,Soil & Fertilizer,19.7,Spring,Advanced,Indoor,N/A,958,0.53
+P1180,Climbing Rose Pro,Roses,40.03,Spring,Beginner,Partial Sun,N/A,481,0.45
+P1181,Hybrid Tea Rose Collection,Roses,21.47,Spring,Intermediate,Shade,N/A,1427,0.36
+P1182,Hybrid Tea Rose Pro,Roses,36.86,Spring,Advanced,Indoor,N/A,1426,0.45
+P1183,Deer Repellent Heirloom,Pest Control,19.04,Summer,Intermediate,Shade,N/A,517,0.6
+P1184,Daylily Organic,Perennials,9.45,Spring,Beginner,Shade,N/A,1101,0.65
+P1185,Hybrid Tea Rose Classic,Roses,37.64,Spring,Intermediate,Shade,N/A,652,0.62
+P1186,Pruner Pro,Garden Tools,16.82,Spring,Beginner,Indoor,N/A,1194,0.59
+P1187,Cedar Raised Bed Premium,Raised Beds,172.17,Early Spring,Beginner,Full Sun,N/A,104,0.6
+P1188,Bone Meal Mix,Soil & Fertilizer,8.41,Spring,Intermediate,Partial Sun,N/A,48,0.64
+P1189,Bean Mix,Vegetable Seeds,8.94,Spring,Advanced,Indoor,80,62,0.43
+P1190,Tomato Premium,Vegetable Seeds,8.05,Spring,Beginner,Shade,65,1050,0.51
+P1191,Strawberry Starter,Fruit Plants,16.16,Spring,Intermediate,Indoor,63,1183,0.58
+P1192,Sunflower Premium,Flower Seeds,3.06,Spring,Intermediate,Shade,N/A,81,0.4
+P1193,Kale Premium,Vegetable Seeds,4.82,Spring,Beginner,Full Sun,39,591,0.43
+P1194,Floribunda Rose Heirloom,Roses,44.42,Spring,Advanced,Indoor,N/A,1178,0.64
+P1195,Kale Collection,Vegetable Seeds,6.96,Spring,Beginner,Full Sun,78,765,0.5
+P1196,Grape Heirloom,Fruit Plants,33.86,Spring,Beginner,Indoor,46,1262,0.63
+P1197,Cucumber Mix,Vegetable Seeds,5.45,Spring,Beginner,Shade,90,1288,0.62
+P1198,Compost Booster Classic,Soil & Fertilizer,26.34,Spring,Intermediate,Shade,N/A,721,0.39
+P1199,Wildflower Collection,Flower Seeds,4.5,Spring,Beginner,Indoor,N/A,1328,0.67
+P1200,Blueberry Starter,Fruit Plants,38.59,Spring,Advanced,Shade,68,1468,0.5
+P1201,LED Grow Light Collection,Indoor Growing,49.99,Winter,Intermediate,Shade,N/A,998,0.38
+P1202,Salvia Heirloom,Perennials,22.13,Spring,Intermediate,Indoor,N/A,400,0.42
+P1203,Cedar Raised Bed Mix,Raised Beds,193.19,Early Spring,Intermediate,Shade,N/A,474,0.68
+P1204,Wildflower Pro,Flower Seeds,7.42,Spring,Intermediate,Partial Sun,N/A,1023,0.35
+P1205,Grow Bag Organic,Raised Beds,155.84,Early Spring,Advanced,Indoor,N/A,467,0.65
+P1206,Hybrid Tea Rose Heirloom,Roses,28.31,Spring,Intermediate,Indoor,N/A,100,0.57
+P1207,Pruner Mix,Garden Tools,32.5,Spring,Beginner,Shade,N/A,66,0.52
+P1208,Planter Box Heirloom,Raised Beds,176.06,Early Spring,Intermediate,Indoor,N/A,1325,0.48
+P1209,Aster Collection,Flower Seeds,8.2,Spring,Intermediate,Partial Sun,N/A,302,0.58
+P1210,Zucchini Premium,Vegetable Seeds,5.99,Spring,Intermediate,Partial Sun,51,218,0.52
+P1211,Poppy Mix,Flower Seeds,8.99,Spring,Beginner,Shade,N/A,9,0.63
+P1212,Organic Fertilizer Starter,Soil & Fertilizer,25.01,Spring,Advanced,Shade,N/A,1355,0.44
+P1213,Humidity Dome Heirloom,Indoor Growing,82.47,Winter,Intermediate,Indoor,N/A,293,0.4
+P1214,Slug Control Heirloom,Pest Control,19.05,Summer,Beginner,Partial Sun,N/A,584,0.47
+P1215,Cosmos Premium,Flower Seeds,2.92,Spring,Intermediate,Full Sun,N/A,518,0.39
+P1216,Cucumber Pro,Vegetable Seeds,3.94,Spring,Beginner,Indoor,28,606,0.64
+P1217,Pepper Organic,Vegetable Seeds,6.76,Spring,Beginner,Full Sun,85,246,0.53
+P1218,Watering Wand Classic,Garden Tools,19.27,Spring,Intermediate,Shade,N/A,1298,0.41
+P1219,Cedar Raised Bed Heirloom,Raised Beds,192.21,Early Spring,Intermediate,Indoor,N/A,782,0.65
+P1220,Knock Out Rose Premium,Roses,35.89,Spring,Advanced,Full Sun,N/A,973,0.45
+P1221,Compost Booster Organic,Soil & Fertilizer,21.32,Spring,Beginner,Shade,N/A,150,0.38
+P1222,Neem Oil Heirloom,Pest Control,10.41,Summer,Beginner,Indoor,N/A,337,0.37
+P1223,Knock Out Rose Classic,Roses,42.16,Spring,Beginner,Shade,N/A,253,0.42
+P1224,Pepper Premium,Vegetable Seeds,8.45,Spring,Intermediate,Indoor,99,286,0.53
+P1225,Deer Repellent Classic,Pest Control,24.86,Summer,Intermediate,Indoor,N/A,1410,0.56
+P1226,Poppy Pro,Flower Seeds,4.54,Spring,Advanced,Full Sun,N/A,1477,0.52
+P1227,Humidity Dome Heirloom,Indoor Growing,74.7,Winter,Beginner,Partial Sun,N/A,1421,0.4
+P1228,Neem Oil Starter,Pest Control,20.4,Summer,Intermediate,Shade,N/A,848,0.4
+P1229,Planter Box Pro,Raised Beds,47.0,Early Spring,Intermediate,Indoor,N/A,1208,0.64
+P1230,Wildflower Pro,Flower Seeds,3.72,Spring,Intermediate,Full Sun,N/A,567,0.41
+P1231,Seed Tray Organic,Garden Tools,9.4,Spring,Beginner,Shade,N/A,593,0.59
+P1232,Pruner Classic,Garden Tools,29.77,Spring,Beginner,Full Sun,N/A,1303,0.45
+P1233,Tomato Feed Classic,Soil & Fertilizer,8.39,Spring,Beginner,Indoor,N/A,942,0.4
+P1234,Organic Fertilizer Pro,Soil & Fertilizer,19.45,Spring,Beginner,Indoor,N/A,1260,0.46
+P1235,Pruner Classic,Garden Tools,15.39,Spring,Beginner,Full Sun,N/A,905,0.52
+P1236,Hosta Premium,Perennials,21.7,Spring,Intermediate,Partial Sun,N/A,541,0.36
+P1237,Bean Organic,Vegetable Seeds,8.11,Spring,Beginner,Indoor,41,987,0.41
+P1238,Grape Organic,Fruit Plants,16.83,Spring,Intermediate,Indoor,79,1396,0.45
+P1239,Slug Control Collection,Pest Control,9.56,Summer,Intermediate,Partial Sun,N/A,182,0.36
+P1240,Phlox Starter,Perennials,20.64,Spring,Beginner,Full Sun,N/A,1454,0.52
+P1241,Pepper Starter,Vegetable Seeds,6.21,Spring,Beginner,Indoor,79,211,0.43
+P1242,Coneflower Organic,Perennials,21.62,Spring,Beginner,Full Sun,N/A,386,0.42
+P1243,Coneflower Starter,Perennials,19.11,Spring,Beginner,Partial Sun,N/A,382,0.67
+P1244,Seed Starter Mix Mix,Soil & Fertilizer,13.0,Spring,Intermediate,Indoor,N/A,1168,0.62
+P1245,Blueberry Organic,Fruit Plants,38.72,Spring,Intermediate,Partial Sun,76,1064,0.67
+P1246,Seed Starter Mix Organic,Soil & Fertilizer,27.88,Spring,Beginner,Shade,N/A,833,0.47
+P1247,Climbing Rose Starter,Roses,42.53,Spring,Beginner,Shade,N/A,591,0.65
+P1248,Wildflower Starter,Flower Seeds,6.39,Spring,Beginner,Full Sun,N/A,540,0.49
+P1249,Coneflower Organic,Perennials,23.77,Spring,Advanced,Full Sun,N/A,389,0.37
+P1250,Microgreen Tray Organic,Indoor Growing,78.81,Winter,Beginner,Shade,N/A,457,0.44
+P1251,Wildflower Heirloom,Flower Seeds,2.71,Spring,Beginner,Full Sun,N/A,461,0.36
+P1252,Coneflower Organic,Perennials,24.5,Spring,Beginner,Indoor,N/A,52,0.43
+P1253,Cedar Raised Bed Starter,Raised Beds,92.1,Early Spring,Beginner,Indoor,N/A,962,0.45
+P1254,Gloves Pro,Garden Tools,18.64,Spring,Intermediate,Partial Sun,N/A,1421,0.63
+P1255,Watering Wand Mix,Garden Tools,36.18,Spring,Beginner,Full Sun,N/A,289,0.59
+P1256,Blackberry Classic,Fruit Plants,22.99,Spring,Beginner,Shade,56,1096,0.5
+P1257,Zucchini Mix,Vegetable Seeds,4.47,Spring,Beginner,Full Sun,78,404,0.6
+P1258,Pepper Organic,Vegetable Seeds,7.76,Spring,Beginner,Partial Sun,69,387,0.63
+P1259,Hybrid Tea Rose Heirloom,Roses,46.58,Spring,Beginner,Shade,N/A,840,0.49
+P1260,Pepper Classic,Vegetable Seeds,7.54,Spring,Intermediate,Partial Sun,32,409,0.42
+P1261,Organic Fertilizer Premium,Soil & Fertilizer,14.12,Spring,Beginner,Indoor,N/A,402,0.53
+P1262,Zucchini Mix,Vegetable Seeds,5.82,Spring,Beginner,Full Sun,88,836,0.4
+P1263,Climbing Rose Premium,Roses,42.83,Spring,Beginner,Full Sun,N/A,207,0.58
+P1264,Bone Meal Heirloom,Soil & Fertilizer,12.22,Spring,Intermediate,Full Sun,N/A,1264,0.56
+P1265,Pruner Collection,Garden Tools,36.29,Spring,Beginner,Indoor,N/A,842,0.53
+P1266,Cucumber Classic,Vegetable Seeds,4.13,Spring,Intermediate,Partial Sun,42,1390,0.41
+P1267,Floribunda Rose Pro,Roses,29.6,Spring,Intermediate,Partial Sun,N/A,587,0.63
+P1268,Poppy Collection,Flower Seeds,5.04,Spring,Beginner,Full Sun,N/A,244,0.52
+P1269,Floribunda Rose Collection,Roses,23.2,Spring,Beginner,Shade,N/A,1276,0.48
+P1270,Pruner Pro,Garden Tools,27.51,Spring,Beginner,Partial Sun,N/A,301,0.64
+P1271,Watering Wand Organic,Garden Tools,7.73,Spring,Beginner,Partial Sun,N/A,615,0.5
+P1272,Seed Tray Classic,Garden Tools,39.3,Spring,Beginner,Indoor,N/A,1125,0.59
+P1273,Bone Meal Collection,Soil & Fertilizer,12.12,Spring,Beginner,Partial Sun,N/A,1253,0.38
+P1274,Tomato Heirloom,Vegetable Seeds,4.55,Spring,Beginner,Full Sun,50,557,0.52
+P1275,Neem Oil Classic,Pest Control,24.0,Summer,Beginner,Full Sun,N/A,1098,0.4
+P1276,Grape Organic,Fruit Plants,38.2,Spring,Intermediate,Partial Sun,62,1386,0.4
+P1277,Gloves Pro,Garden Tools,13.97,Spring,Intermediate,Full Sun,N/A,1014,0.44
+P1278,Grape Mix,Fruit Plants,14.64,Spring,Advanced,Partial Sun,30,1209,0.55
+P1279,Deer Repellent Mix,Pest Control,18.85,Summer,Beginner,Indoor,N/A,708,0.56
+P1280,Seed Tray Premium,Garden Tools,27.36,Spring,Beginner,Indoor,N/A,454,0.6
+P1281,Phlox Heirloom,Perennials,9.81,Spring,Intermediate,Partial Sun,N/A,68,0.64
+P1282,Aster Pro,Flower Seeds,7.34,Spring,Beginner,Full Sun,N/A,1171,0.59
+P1283,Blueberry Pro,Fruit Plants,22.98,Spring,Beginner,Shade,33,1234,0.37
+P1284,Pruner Classic,Garden Tools,21.09,Spring,Intermediate,Partial Sun,N/A,303,0.48
+P1285,Cucumber Starter,Vegetable Seeds,3.72,Spring,Beginner,Indoor,35,329,0.52
+P1286,Marigold Mix,Flower Seeds,8.87,Spring,Advanced,Shade,N/A,965,0.61
+P1287,Compost Booster Premium,Soil & Fertilizer,20.53,Spring,Advanced,Shade,N/A,1478,0.58
+P1288,Bone Meal Premium,Soil & Fertilizer,19.01,Spring,Beginner,Full Sun,N/A,1225,0.51
+P1289,Slug Control Heirloom,Pest Control,9.86,Summer,Beginner,Full Sun,N/A,237,0.67
+P1290,Japanese Beetle Trap Collection,Pest Control,20.24,Summer,Beginner,Full Sun,N/A,1058,0.63
+P1291,Salvia Organic,Perennials,10.86,Spring,Beginner,Full Sun,N/A,1257,0.53
+P1292,Tomato Feed Pro,Soil & Fertilizer,29.61,Spring,Intermediate,Full Sun,N/A,1306,0.67
+P1293,Climbing Rose Classic,Roses,25.32,Spring,Beginner,Full Sun,N/A,1434,0.51
+P1294,Metal Raised Bed Classic,Raised Beds,161.6,Early Spring,Intermediate,Full Sun,N/A,1168,0.64
+P1295,Grape Mix,Fruit Plants,23.49,Spring,Beginner,Partial Sun,41,996,0.59
+P1296,Hosta Premium,Perennials,11.21,Spring,Intermediate,Full Sun,N/A,779,0.52
+P1297,Knock Out Rose Heirloom,Roses,31.14,Spring,Beginner,Full Sun,N/A,339,0.5
+P1298,Raspberry Mix,Fruit Plants,35.66,Spring,Intermediate,Full Sun,48,1259,0.66
+P1299,Metal Raised Bed Pro,Raised Beds,78.83,Early Spring,Beginner,Shade,N/A,1480,0.38
+P1300,Phlox Classic,Perennials,22.13,Spring,Beginner,Full Sun,N/A,557,0.53
