@@ -14,3 +14,7 @@ def load_orders():
 
 def load_campaigns():
     return pd.read_csv(data / "campaigns.csv")
+
+def get_most_common_grow_zone(customers):
+    grow_zone = customers["Grow_Zone"].mode()
+    return grow_zone.iloc[0]
