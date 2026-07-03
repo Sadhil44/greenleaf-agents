@@ -4,6 +4,7 @@ from state import CampaignState
 
 from agents.planner import PlannerAgent
 from agents.customer_insights import CustomerInsightsAgent
+from agents.product_selector import ProductSelectorAgent
 
 customers = load_customers()
 products = load_products()
@@ -19,12 +20,13 @@ print(customers.head())
 
 state = CampaignState(user_request = "Create a spring email campaign for beginner gardeners interested in tomato seeds in Ohio.")
 
-planner = PlannerAgent()
+agents = [
+    PlannerAgent(),
+    CustomerInsightsAgent(),
+    ProductSelectorAgent()
+]
 
-state = planner.run(state)
-print(state.plan)
+for agent in agents:
+    state = agent.run(state)
 
-customer_agent =  CustomerInsightsAgent()
-
-state = customer_agent.run(state)
-print(state.customer_segment)
+print(state.recommended_products)

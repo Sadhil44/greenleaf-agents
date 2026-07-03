@@ -18,3 +18,11 @@ def load_campaigns():
 def get_most_common_grow_zone(customers):
     grow_zone = customers["Grow_Zone"].mode()
     return grow_zone.iloc[0]
+
+def search_products(products, keyword: str):
+    keyword = keyword.lower()
+    matching_products = products[
+        products["Product_Name"].str.lower().str.contains(keyword, na=False)
+    ]
+    return matching_products
+
